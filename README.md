@@ -1,3 +1,3 @@
 # settings
 
-Includes settings for various applications
+Includes settings and personal preferences for various applications
